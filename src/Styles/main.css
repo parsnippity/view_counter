@@ -1,0 +1,13 @@
+.count {
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.bigCount {
+    border: 2px solid black;
+    max-width: fit-content;
+    padding: 5px;
+    margin: 5px;
+}
